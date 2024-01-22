@@ -23,9 +23,5 @@ namespace HomeWorkOOP.Services
             }).ToList();
         }
 
-        List<System.Reflection.Metadata.Document> IDocumentService.GetByNumber(string number)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

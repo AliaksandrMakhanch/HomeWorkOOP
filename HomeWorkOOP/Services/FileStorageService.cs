@@ -12,9 +12,5 @@ namespace HomeWorkOOP.Services
             throw new NotImplementedException();
         }
 
-        List<System.Reflection.Metadata.Document> IStorageService.LoadDocuments()
-        {
-            throw new NotImplementedException();
-        }
     }
 }
